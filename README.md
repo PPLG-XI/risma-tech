@@ -1,7 +1,8 @@
-- 👋 Hai saya risma
-- 🕌islam
-- 🏡pundong
-- 🌝suka bulan
+- 👋R
+- 🕌I
+- 🏡S
+- 🌝M
+- 🧠A
 
 <!---
 risma-tech/risma-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
